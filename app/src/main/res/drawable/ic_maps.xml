@@ -1,0 +1,37 @@
+<?xml version="25.47.08.832980099" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+<!--    Белый круг в центре-->
+    <path
+    android:fillColor="#FFFFFF"
+    android:pathData="M24 16a8 8 0 1 0 0 16 0 8 8 0 0 0 0 -16z" />
+
+    <!-- Сегменты значка (цвета Google) -->
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M48 24L24 8 0 24z" /> <!-- Синий сегмент -->
+
+    <path
+        android:fillColor="#DB4437"
+        android:pathData="M0 24L24 40 48 24z" /> <!-- Красный сегмент -->
+
+    <path
+        android:fillColor="#F4B400"
+        android:pathData="M0 24L24 16 48 24z" /> <!-- Жёлтый сегмент -->
+
+    <path
+        android:fillColor="#33CC33"
+        android:pathData="M0 24L24 32 48 24z" /> <!-- Зелёный сегмент -->
+
+    <!-- Контур значка (форма "булавки") -->
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M48 24L24 8 0 24 24 40z"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

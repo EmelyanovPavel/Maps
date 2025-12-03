@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Maps</string>
-    <string name="google_maps_key"><![CDATA[<string name=\"google_maps_key\" templateMergeStrategy=\"preserve\" translatable=\"false\">AIzaSyDRxMpNoGusifyjW2Kq7lvFmv6I4z5DR_E</string>\n]]></string>
+    <string name="app_name">Карты</string>
+    <string name="google_maps_key"><![CDATA[<string name=\"google_maps_key\" templateMergeStrategy=\"preserve\" translatable=\"false\">AIzaSyDEXKSkKEDuNHq304uX9u8HJJ_Xh-7J3js</string>\n]]></string>
 </resources>
